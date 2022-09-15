@@ -20,7 +20,7 @@
     top: 0px;
     left: 0px;
     text-align: center;
-    animation: move 1.7s linear infinite;
+    animation: move 3s linear infinite;
 }
 
 #bluecar img {
@@ -77,4 +77,9 @@
     cursor: pointer;
     text-transform: uppercase;
 }
+.night{
+    background: #000;
+    transition-duration: 300ms;
+}
 
+.
